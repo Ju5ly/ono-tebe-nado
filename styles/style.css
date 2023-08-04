@@ -1,6 +1,6 @@
 .header {
     display: flex;
-    padding: 167px 49px 96px 52px;
+    padding: 93px 49px 96px 52px;
     gap:214px;
     width: 1440px;
 }
@@ -38,7 +38,7 @@
     padding-top: 5px;
     padding-left: 50px;
     color: #000;
-    font-family: Raleway, Arial, sans-serif;;
+    font-family: Raleway, Arial, sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
@@ -236,6 +236,7 @@
     gap: 24px;
     display: flex;
     flex-direction: column;
+    
 }
 .about-title {
     color: #000;
@@ -251,7 +252,6 @@
     color: #000;
     font-family: Raleway, Arial, sans-serif;
     font-size: 20px;
-    font-style: normal;
     font-weight: 400;
     line-height: normal;
     width: 885px;

@@ -42,7 +42,7 @@
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
-    line-height: 135%; 
+    line-height: 135%;
     list-style-type: none;
     max-width: 290px;
 }
@@ -52,7 +52,7 @@
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
-    line-height: 135%; 
+    line-height: 135%;
 }
 .overlay {
     opacity: 0.6;
@@ -115,7 +115,6 @@
     border: 1px #fff solid;
     padding: 12px 32px;
     font: inherit;
-    color: #FFF;
     background-color: transparent;
     color: #FFF;
     text-align: center;
@@ -254,7 +253,6 @@
     width: 885px;
     padding-top: 24px;
     line-height: 119%;
-
 }
 .footer {
     padding: 187px 0px 90px;

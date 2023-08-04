@@ -44,7 +44,7 @@
     font-weight: 400;
     line-height: 135%;
     list-style-type: none;
-    max-width: 290px;
+    min-width: 290px;
 }
 .contacts-item {
     color: #000;
@@ -62,7 +62,7 @@
     background-image: url(../images/cover.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    max-width: 1440px;
+    width: 1440px;
 }
 .title {
     color: #FFF;
@@ -79,12 +79,11 @@
 .text-center {
     display: block;
     text-align: center;
-    padding-top: 30px;
-    padding-right: 2px;
+    padding-top: 25px;
 }
 .text-right {
     padding-top: 20px;
-    padding-right: 1px;
+    padding-left: 924px;
     text-align: right;
     display: block;
 }
@@ -96,7 +95,7 @@
 }
 .description {
     display: flex;
-    padding: 135px 50px 50px 421px;
+    padding: 135px 50px 50px 422px;
     gap: 79px;
 }
 .description-text {
@@ -126,7 +125,7 @@
     text-transform: uppercase;
 }
 .lots {
-    padding: 178px 50px 0;
+    padding: 178px 0px 0 50px;
 }
 .lots-header {
     color: #000;
@@ -140,7 +139,7 @@
 }
 .card-list {
     display: flex;
-    padding: 27px 0 30px 1px;
+    padding: 30px 0 30px 1px;
     gap: 25px;
 }
 .card-item {
@@ -151,7 +150,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     padding: 50px 40px;
-    max-width: 430px;
+    width: 430px;
     min-height: 450px;
     display: flex;
     flex-direction: column;
@@ -162,7 +161,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     padding: 50px 40px;
-    max-width: 430px;
+    width: 430px;
     min-height: 450px;
     display: flex;
     flex-direction: column;
@@ -173,7 +172,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     padding: 50px 40px;
-    max-width: 430px;
+    width: 430px;
     min-height: 450px;
     display: flex;
     flex-direction: column;
@@ -252,7 +251,6 @@
     color: #000;
     font-family: Raleway, Arial, sans-serif;
     font-size: 20px;
-    font-weight: 400;
     line-height: normal;
     width: 885px;
 }

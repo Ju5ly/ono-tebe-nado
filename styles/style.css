@@ -6,7 +6,7 @@
 }
 .menu {
     color: #000;
-    font-family: Raleway;
+    font-family: Raleway, Arial, sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
@@ -38,7 +38,7 @@
     padding-top: 5px;
     padding-left: 50px;
     color: #000;
-    font-family: Raleway;
+    font-family: Raleway, Arial, sans-serif;;
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
@@ -48,7 +48,7 @@
 }
 .contacts-item {
     color: #000;
-    font-family: Raleway;
+    font-family: Raleway, Arial, sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
@@ -67,7 +67,7 @@
 .title {
     color: #FFF;
     text-align: left;
-    font-family: Raleway;
+    font-family: Raleway, Arial, sans-serif;
     font-size: 100px;
     font-style: normal;
     font-weight: 700;
@@ -102,7 +102,7 @@
 .description-text {
     color: #FFF;
     text-align: center;
-    font-family: Raleway;
+    font-family: Raleway, Arial, sans-serif;
     font-size: 22px;
     font-style: normal;
     font-weight: 400;
@@ -118,7 +118,7 @@
     background-color: transparent;
     color: #FFF;
     text-align: center;
-    font-family: Raleway;
+    font-family: Raleway, Arial, sans-serif;
     font-size: 22px;
     font-style: normal;
     font-weight: 400;
@@ -130,7 +130,7 @@
 }
 .lots-header {
     color: #000;
-    font-family: Raleway;
+    font-family: Raleway, Arial, sans-serif;
     font-size: 40px;
     font-style: normal;
     font-weight: 700;
@@ -181,7 +181,7 @@
 }
 .card-title {
     color: #FFF;
-    font-family: Raleway;
+    font-family: Raleway, Arial, sans-serif;
     font-size: 22px;
     font-style: normal;
     font-weight: 700;
@@ -191,7 +191,7 @@
 }
 .card-text {
     color: #FFF;
-    font-family: Raleway;
+    font-family: Raleway, Arial, sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
@@ -200,7 +200,7 @@
 }
 .look-more {
     color: #000;
-    font-family: Raleway;
+    font-family: Raleway, Arial, sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
@@ -232,28 +232,29 @@
     height: 114px;
 }
 .about-text {
-    padding-top: 100px
+    padding-top: 100px;
+    gap: 24px;
+    display: flex;
+    flex-direction: column;
 }
 .about-title {
     color: #000;
-    font-family: Raleway;
+    font-family: Raleway, Arial, sans-serif;
     font-size: 40px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
     text-transform: uppercase;
-    padding-bottom: 77px;
+    padding-bottom: 76px;
 }
 .about-info {
     color: #000;
-    font-family: Raleway;
+    font-family: Raleway, Arial, sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
     width: 885px;
-    padding-top: 24px;
-    line-height: 119%;
 }
 .footer {
     padding: 187px 0px 90px;
